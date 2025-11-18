@@ -128,7 +128,7 @@ mood-music-recommendation/
 │
 ├── app.py                   # Frontend UI
 
-├── mood_based_music.py      # Recommendation logic
+├── mood_based_music_recommendation_system (1).py      # Recommendation logic
 
 ├── scaler.joblib            # Scaler model
 
